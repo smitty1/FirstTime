@@ -1,0 +1,3 @@
+added git config --global credential.helper
+added git config --global push.default simple
+
