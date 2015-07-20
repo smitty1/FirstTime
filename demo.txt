@@ -1,0 +1,2 @@
+this file is show the processes to get a file into git then out to github.
+
