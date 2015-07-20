@@ -3,3 +3,9 @@ This sentence was added using vi from Windows. Apparently it is the default core
 
 I tried entering "git ocnfig --global core.editor nano". There were no errors and "git config --list" shows the entry but it had no effect, this is again being entered in vi.
 
+I tried to set notepad++ as the editor using the comlete path
+git config --global core.editor /C/Program\ File\ \(x86\)/Notepad++/notepad++.exe
+It was accepted
+core.editor=c:/Program File (x86)/Notepad++/notepad++.exe
+But when I ran "git commit " It returned an error as before. So I will have to live with vim to Insert the commit messages.
+
