@@ -1,0 +1,5 @@
+This is my first attempt to add a file to git/git hub from my desktop  machine running Windows 7 Home.
+This sentence was added using vi from Windows. Apparently it is the default core.editor here. I need to find a way to change that to notepad++.
+
+I tried entering "git ocnfig --global core.editor nano". There were no errors and "git config --list" shows the entry but it had no effect, this is again being entered in vi.
+
