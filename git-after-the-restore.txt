@@ -1,0 +1,12 @@
+Had to restore the  harddrive from the June 9 Clone of the full hdd.
+This was pre working on git 
+Setup Directory ~/Playground/git
+git clone https://github.com/smitty1/FirstTime
+cd ~/Playground/git/FirstTime
+$git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+
+Now I will put this file through thee git process to make sureI still have it right.
+
